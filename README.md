@@ -1,0 +1,2 @@
+# testnpmpakage
+test msg
